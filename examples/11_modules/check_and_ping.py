@@ -1,4 +1,4 @@
-from check_ip_functions import check_ip
+from check_ip_function import check_ip
 from ping_function import ping_ip
 
 
